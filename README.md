@@ -24,6 +24,18 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
+npm install json-server -g
+```
+##run json(data base) file 
+```sh
+json-servr db.json
+```
+
+```sh
+npm install axios --save
+```
+
+```sh
 npm install
 ```
 
