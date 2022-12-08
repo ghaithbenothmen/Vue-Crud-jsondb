@@ -1,0 +1,51 @@
+/*<script>
+//import { RouterLink, RouterView } from 'vue-router'
+//import HelloWorld from './components/HelloWorld.vue'
+
+/*export default {
+  data() {
+    return {
+      text: '',
+      text2: '',
+      showText : false,
+    }
+  }
+}
+</script>
+
+<template>
+  <div>
+  <h2>Nom</h2>
+  <input v-model="text" placeholder="votre nom"> 
+</div>
+
+<br>
+
+<div>
+  <h2>Prenom</h2>
+  <input v-model="text2" placeholder="votre prenom"> 
+</div>
+
+<br>
+<!-- affiche sans click-->
+<div>
+<button v-on:click="showText =! showText">afficher</button>
+</div>
+<p>Bonjour {{text}} {{text2}} dans votre premier page !!</p>
+
+
+<!-- affiche avec click-->
+<div >
+  <p v-if="showText">Bonjour {{text}} {{text2}} dans votre premier page !!</p>
+</div>
+<!---->
+
+</template>
+
+
+
+<style scoped>
+
+</style>
+
+</script>*/
